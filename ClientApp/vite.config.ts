@@ -9,7 +9,7 @@ export default defineConfig({
     host: "0.0.0.0",
     hmr: {
       host: "localhost",
-      protocol: "ws",
+      // protocol: "ws",
     },
   },
   test: {
